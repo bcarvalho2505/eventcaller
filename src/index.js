@@ -6,7 +6,6 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-//    <App />
 <event_caller />
   </React.StrictMode>,
   document.getElementById('root')
